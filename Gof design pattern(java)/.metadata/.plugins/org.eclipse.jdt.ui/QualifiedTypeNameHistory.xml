@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="main.ButtonClick"/>
+<fullyQualifiedTypeName name="main.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="main.Observable"/>
+<fullyQualifiedTypeName name="main.Button"/>
+<fullyQualifiedTypeName name="main.Observable.Observer"/>
+<fullyQualifiedTypeName name="main.Collegue"/>
+<fullyQualifiedTypeName name="main.Mediator"/>
+<fullyQualifiedTypeName name="java.lang.Comparable"/>
+<fullyQualifiedTypeName name="Abst.Colleague"/>
+<fullyQualifiedTypeName name="Abst.Mediator"/>
+<fullyQualifiedTypeName name="concrete.ChatMediator"/>
+<fullyQualifiedTypeName name="concrete.ChatColleague"/>
+<fullyQualifiedTypeName name="abst.Colleague"/>
+<fullyQualifiedTypeName name="main.LightState"/>
+<fullyQualifiedTypeName name="main.Light"/>
+<fullyQualifiedTypeName name="main.Originator"/>
+<fullyQualifiedTypeName name="main.FlyweightFactory"/>
+<fullyQualifiedTypeName name="main.Flyweight"/>
+<fullyQualifiedTypeName name="main.Subject"/>
+<fullyQualifiedTypeName name="main.Proxy"/>
+<fullyQualifiedTypeName name="main.RealSubject"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="main.StringPrintCommand"/>
+</qualifiedTypeNameHistroy>
